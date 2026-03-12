@@ -1,0 +1,11 @@
+{
+  "id": 2,
+  "company": "string",
+  "items": [
+    {
+      "product_id": 1,
+      "quantity": 1
+    }
+  ],
+  "status": "pending"
+}
